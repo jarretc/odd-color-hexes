@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Color Hexes for Variation Swatches
- * Plugin URI: https://orangedotdevelopment.com
+ * Plugin URI: https://orangedotdevelopment.com/software/wordpress/plugins/color-hexes-for-variation-swatches/
  * Description: Displays the color hex code after the color name in the order meta when using the Variation Swatches for WooCommerce plugin.
  * Version: 1.0.0
- * Author: OrangeDotDevelopment
+ * Author: Jarret
  * Author URI: https://orangedotdevelopment.com
  * Text Domain: odd-color-hexes
  * Requires Plugins: woocommerce, woo-variation-swatches
