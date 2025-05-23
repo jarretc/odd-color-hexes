@@ -1,0 +1,14 @@
+{
+    "name": "odd/odd-color-hexes",
+    "config": {
+        "platform": {
+            "php": "8.3"
+        },
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    },
+    "require-dev": {
+        "phpcsstandards/phpcsextra": "^1.0"
+    }
+}
